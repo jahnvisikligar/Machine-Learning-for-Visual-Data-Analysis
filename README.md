@@ -1,4 +1,4 @@
-# Machine Learning for Visual Data Analytics(ML_VDA)
+# Machine Learning for Visual Data Analytics (ML_VDA)
 
 Following projects have been implemented:
 - Image Classification using Bag of Words (BOW)
